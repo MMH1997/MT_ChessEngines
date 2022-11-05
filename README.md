@@ -1,6 +1,6 @@
 # MT_ChessEngines
 
-In this github you can find the code in Python of all the simetries and all the MRs defined in the paper. 
+In this github you can find the code in Python of all the symmetries and all the MRs defined in the paper. 
 
 The file "posiciones.txt" contains the positions (not preproccesed) used as dataset in the experiments performed in the paper. 
 
