@@ -9,3 +9,5 @@ The file "posiciones.txt" contains the positions (not preprocessed) used as a da
 The file 'main.ipynb' is an example of the joint implementation of a symmetry and a metamorphic relation. In this case, 'sim_axis' and 'MR_equi'. The final output is a dataframe that contains several columns: the original position, evaluation of the original position, transformed position, evaluation of the transformed position, and a final column that indicates if the MR is fulfilled or not.
 
 The file 'bothcheck.ipynb' contains the function that indicates if, in a determined position, both kings are in check.
+
+While the implementation in other files is only valid for Stockfish, the "other_engines.ipynb" file uses the "Python-Chess" package to apply MRs to engines other than Stockfish. 
